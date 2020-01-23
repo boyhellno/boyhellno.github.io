@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: Bùi Minh Nhật
+titles: Boy Hell No
   # @start locale config
   en      : &EN       About
   en-GB   : *EN
@@ -27,9 +27,6 @@ key: page-about
 ---
 
  
-# Bùi Minh Nhật  <img src="https://avatars3.githubusercontent.com/u/39076547?s=460&v=4" alt="drawing" width="200"/>
+<img src="https://avatars0.githubusercontent.com/u/60125414?s=460&v=4" alt="drawing" width="200"/>
 
-
-sahkabska
-
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+I'm new to cryptology.  
